@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/nguyen55/repositories/rutgonlink/
+    - export DEPLOYPATH=/home/aloxolik/url.aloxovn.com/rutgonlink/
     - /bin/cp -rf images $DEPLOYPATH
     - /bin/cp -rf content $DEPLOYPATH

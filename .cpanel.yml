@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/azdigiweb/public_html/
+    - export DEPLOYPATH=/home/nguyen55/repositories/rutgonlink/
     - /bin/cp -rf images $DEPLOYPATH
     - /bin/cp -rf content $DEPLOYPATH
